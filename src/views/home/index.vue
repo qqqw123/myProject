@@ -1,3 +1,9 @@
 <template>
-    就斤斤计较
+  <div>index</div>
 </template>
+
+<script>
+// export default {}
+</script>
+
+<style lang="scss"></style>
