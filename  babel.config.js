@@ -5,8 +5,8 @@ module.exports = {
       {
         libraryName: 'element-plus',
         customStyleName: (name) => {
-          name = name.slice(3)
-          return `element-plus/packages/theme-chalk/src/${name}.scss`
+          const name1 = name.slice(3)
+          return `element-plus/packages/theme-chalk/src/${name1}.scss`
         }
       }
     ]
