@@ -3,7 +3,7 @@ import 'element-plus/packages/theme-chalk/src/base.scss'
 
 import App from './App.vue'
 
-import router from './router/index'
+import router from './router'
 import store from './store/index'
 import './plugins/element'
 
